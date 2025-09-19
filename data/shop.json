@@ -1,0 +1,5 @@
+{
+  "sword": { "price": 1000, "desc": "Sharp sword to attack enemies" },
+  "shield": { "price": 800, "desc": "Protects you from attacks" },
+  "potion": { "price": 500, "desc": "Heals you completely" }
+}
