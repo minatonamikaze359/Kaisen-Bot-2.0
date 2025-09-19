@@ -1,0 +1,18 @@
+{
+  "name": "kaisen-bot-md-2.0",
+  "version": "1.0.0",
+  "description": "Full-featured KAISEN-BOT-MD WhatsApp bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.5.2",
+    "axios": "^1.6.0",
+    "pino": "^8.13.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
